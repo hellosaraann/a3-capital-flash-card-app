@@ -1,9 +1,16 @@
 body {
+  margin: 5em 2em;
   font-family: monospace;
   font-size: 1.5em;
   text-transform: uppercase;
   letter-spacing: .2em;
   color: #555;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 100;
+  text-align: center;
 }
 
 gallery {
